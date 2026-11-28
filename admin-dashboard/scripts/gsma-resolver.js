@@ -31,6 +31,48 @@ const MODEL_OVERRIDES = {
     url: BASE + '/tecno_pova_6-12910.php',
     models: ['LI7'],
     chipset: 'Mediatek Helio G99 Ultimate (6 nm)'
+  },
+  CPH2591: {
+    name: 'Oppo A18',
+    image: 'https://fdn2.gsmarena.com/vv/bigpic/oppo-a38.jpg',
+    url: BASE + '/oppo_a18-12591.php',
+    models: ['CPH2591'],
+    chipset: 'Mediatek MT6769 Helio G85 (12 nm)'
+  },
+  X6873: {
+    name: 'Infinix GT 30 Pro',
+    image: 'https://fdn2.gsmarena.com/vv/bigpic/infinix-gt30-pro.jpg',
+    url: BASE + '/infinix_gt_30_pro_5g-13889.php',
+    models: ['X6873'],
+    chipset: 'Mediatek Dimensity 8350 Ultimate (4 nm)'
+  },
+  CPH2895: {
+    name: 'Oppo A6c',
+    image: 'https://fdn2.gsmarena.com/vv/bigpic/oppo-a6c-global.jpg',
+    url: BASE + '/oppo_a6c-14418.php',
+    models: ['CPH2895'],
+    chipset: 'Unisoc T7250 (12 nm)'
+  },
+  X682B: {
+    name: 'Infinix Hot 10',
+    image: 'https://fdn2.gsmarena.com/vv/bigpic/infinix-hot10.jpg',
+    url: BASE + '/infinix_hot_10-10452.php',
+    models: ['X682B', 'X682C'],
+    chipset: 'Mediatek MT6769V/CB Helio G70 (12 nm)'
+  },
+  X6858: {
+    name: 'Infinix Note 50 4G',
+    image: 'https://fdn2.gsmarena.com/vv/bigpic/infinix-note50.jpg',
+    url: BASE + '/infinix_note_50_4g-13705.php',
+    models: ['X6858'],
+    chipset: 'Mediatek Helio G100 Ultimate (6 nm)'
+  },
+  SMA235F: {
+    name: 'Samsung Galaxy A23',
+    image: 'https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a23.jpg',
+    url: BASE + '/samsung_galaxy_a23-11373.php',
+    models: ['SM-A235F', 'SM-A235F/DS', 'SM-A235F/DSN', 'SM-A235M', 'SM-A235M/DS', 'SM-A235N'],
+    chipset: 'Qualcomm SM6225 Snapdragon 680 4G (6 nm)'
   }
 };
 
